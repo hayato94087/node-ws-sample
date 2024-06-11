@@ -1,0 +1,18 @@
+{
+  "name": "node-ws-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "dev": "vite-node index.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "typescript": "^5.4.5",
+    "vite-node": "^1.6.0"
+  }
+}
